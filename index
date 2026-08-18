@@ -406,7 +406,7 @@
 
 <header>
   <a href="#home" class="brand">
-    <div class="mark"><img src="images/logo.png" alt="CITE logo"></div>
+    <div class="mark"><img src="logo.png" alt="CITE logo"></div> 
     <span>DE&nbsp;LA&nbsp;SALLE&nbsp;LIPA</span>
   </a>
   <nav class="pill">
@@ -687,22 +687,22 @@
   </div>
   <div class="team-grid">
     <div class="team-card reveal">
-      <div class="team-avatar"><img src="images/team/laylo.png" alt="Aliyah Nicole R. Laylo"></div>
+      <div class="team-avatar"><img src="laylo.png" alt="Aliyah Nicole R. Laylo"></div>
       <p class="team-name">Aliyah Nicole R. Laylo</p>
       <p class="team-role">Designer</p>
     </div>
     <div class="team-card reveal">
-      <div class="team-avatar"><img src="images/team/magtibay.png" alt="Charlize Ysabelle H. Magtibay"></div>
+      <div class="team-avatar"><img src="magtibay.png" alt="Charlize Ysabelle H. Magtibay"></div>
       <p class="team-name">Charlize Ysabelle H. Magtibay</p>
       <p class="team-role">Designer</p>
     </div>
     <div class="team-card reveal">
-      <div class="team-avatar"><img src="images/team/raquintan.png" alt="Timothy R. Raquintan"></div>
+      <div class="team-avatar"><img src="raquintan.png" alt="Timothy R. Raquintan"></div>
       <p class="team-name">Timothy R. Raquintan</p>
       <p class="team-role">Designer</p>
     </div>
     <div class="team-card reveal">
-      <div class="team-avatar"><img src="images/team/recio.png" alt="Aeris Amanda V. Recio"></div>
+      <div class="team-avatar"><img src="recio.png" alt="Aeris Amanda V. Recio"></div>
       <p class="team-name">Aeris Amanda V. Recio</p>
       <p class="team-role">Designer</p>
     </div>
