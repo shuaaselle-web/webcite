@@ -894,13 +894,15 @@
     msgBox.classList.add('show');
   }
   document.getElementById('loginForm').addEventListener('submit', (e) => {
-    e.preventDefault();
-    showMessage('Login submitted for: ' + document.getElementById('login_email').value + ' (connect a backend to make this functional)');
-  });
-  document.getElementById('registerForm').addEventListener('submit', (e) => {
-    e.preventDefault();
-    showMessage('Registration submitted for: ' + document.getElementById('reg_name').value + ' (connect a backend to make this functional)');
-  });
+  e.preventDefault();
+  showMessage("Thanks! We'll be in touch.");
+  e.target.reset();
+});
+document.getElementById('registerForm').addEventListener('submit', (e) => {
+  e.preventDefault();
+  showMessage("Thanks! We'll be in touch.");
+  e.target.reset();
+});
 </script>
 
 </body>
